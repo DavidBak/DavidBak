@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DavidBak
 - 👀 I’m interested in Data Science and Web Development.
-- 🌱 I’m currently learning Github.
+- 🌱 I’m currently learning Spark, Python, SQL, Github, PHP, Java Script.
 - 📫 lhbak73@gmail.com
 
 <!---
