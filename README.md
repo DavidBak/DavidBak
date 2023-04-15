@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DavidBak
 - 👀 I’m interested in Data Science and Web Development.
-- 🌱 I’m currently learning Front-End Development, Python, Java, Java Script, SQL, Data Science & Analytics.
+- 🌱 I’m currently learning Django, Python, SQL, Data Science & Analytics.
 - 📫 lhbak73@gmail.com
 
 <!---
